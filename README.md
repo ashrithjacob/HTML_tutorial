@@ -17,3 +17,11 @@ OR RUN:
 ```bash
 pushd &lt;filename>.html; python3 -m http.server 9999; popd;
 ```
+
+One can have:
+
+- lists (ordered and unordered)
+- images (with title)
+- non collapsible whitespaces
+- linebreaks
+- horizontal lines
